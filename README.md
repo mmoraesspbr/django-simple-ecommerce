@@ -72,3 +72,11 @@ python manage.py migrate
 
 Pronto!
 
+
+# User: django_user
+# key: b+1
+
+# Site admin: http://localhost:8000/admin/
+# Site ecommerce: http://localhost:8000/
+
+
