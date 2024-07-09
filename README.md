@@ -76,6 +76,9 @@ Pronto!
 # User: django_user
 # key: b+1
 
+# Rodar o projeto
+# python manage.py runserver
+
 # Site admin: http://localhost:8000/admin/
 # Site ecommerce: http://localhost:8000/
 
